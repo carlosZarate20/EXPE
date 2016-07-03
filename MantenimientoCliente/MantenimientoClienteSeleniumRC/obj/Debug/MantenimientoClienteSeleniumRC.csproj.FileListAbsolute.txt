@@ -1,0 +1,42 @@
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\MantenimientoClienteSeleniumRC.dll
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\MantenimientoClienteSeleniumRC.pdb
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\nunit.framework.dll
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.dll
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\nunit.framework.xml
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.xml
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\obj\Debug\MantenimientoClienteSeleniumRC.dll
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\obj\Debug\MantenimientoClienteSeleniumRC.pdb
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\nunit.mocks.dll
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\pnunit.framework.dll
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.Support.dll
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.pdb
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.Support.pdb
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.Support.xml
+C:\Users\operador\Desktop\Lab C#\MantenimientoCliente\MantenimientoClienteSeleniumRC\obj\Debug\MantenimientoClienteSeleniumRC.csprojResolveAssemblyReference.cache
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\MantenimientoClienteSeleniumRC.dll
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\MantenimientoClienteSeleniumRC.pdb
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\nunit.framework.dll
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\nunit.mocks.dll
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\pnunit.framework.dll
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.dll
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.Support.dll
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\nunit.framework.xml
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.pdb
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.xml
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.Support.pdb
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\bin\Debug\WebDriver.Support.xml
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\obj\Debug\MantenimientoClienteSeleniumRC.csprojResolveAssemblyReference.cache
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\obj\Debug\MantenimientoClienteSeleniumRC.dll
+D:\ex\MantenimientoCliente\MantenimientoClienteSeleniumRC\obj\Debug\MantenimientoClienteSeleniumRC.pdb
